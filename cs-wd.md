@@ -26,10 +26,11 @@ It has a pleathora of hints, tips and answers to help you ensure you get the mos
 - [ ]  Course: [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)    
 - [ ]  Course: [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)    
 - [ ]  Course: [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)
+- [ ]  Course: [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)
 - [ ]  Book:  [DOM Enlightenment](http://domenlightenment.com/)    
 - [ ]  Project:  Simon Game from the frontend section of FCC    
 - [ ]  Project:  Complete all Classic Puzzles - Easy on [CodinGame](https://www.codingame.com/) in JavaScript        
-- [ ]  Course:  [Introduction to MongoDB using the MEAN Stack](https://www.edx.org/course/introduction-mongodb-using-mean-stack-mongodbx-m101x-0) on edX    
+- [ ] Course - [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) on edX or [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University (or both, your choice)  
 - [ ]  The FCC Backend Certification - all projects, ignore the tutorials and just read the official docs if you want. 
 - [ ]  Course: [Calculus One](https://www.coursera.org/learn/calculus1)    
 - [ ]  Book:  [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
@@ -63,7 +64,7 @@ It has a pleathora of hints, tips and answers to help you ensure you get the mos
 - [ ]  Course: [Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)    
 - [ ]  Course: [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
 - [ ]  Project: Complete all ES6 Katas [here](http://es6katas.org/)
-- [ ]  Course: [Introduction to Cloud Computing](https://www.edx.org/course/introduction-cloud-computing-ieeex-cloudintro-x-0)   
+- [ ]  Course: [Introduction to Cloud Infrastructure Technologies](https://www.edx.org/course/introduction-cloud-infrastructure-linuxfoundationx-lfs151-x)   
 - [ ]  Project: Complete all challenges from the [Code Jam Round 1B 2015](https://code.google.com/codejam/contest/8224486/dashboard)
 - [ ]  Project: Build FaceBook:  yes, all the functionality. See [here](http://www.theodinproject.com/courses/ruby-on-rails/lessons/final-project) for a list of requirements you should fullfill.
 - [ ]  Course: [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313)   
@@ -87,7 +88,7 @@ It has a pleathora of hints, tips and answers to help you ensure you get the mos
 - [ ]  Project: Complete all challenges from the [Code Jam World Finals 2015](https://code.google.com/codejam/contest/5224486/dashboard)
 - [ ]  Course: [Machine Learning](https://www.coursera.org/learn/machine-learning)  
 - [ ]  Project: Design, implement, test, and deploy a game that is playable on the web, using the technologies of your choice. The only criteria are that it be playable online, and that it inculde a substantial AI component.
-- [ ]  Course: [Operating Systems and System Programming](https://www.youtube.com/view_play_list?p=-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c)  
+- [ ]  Course: [Operating Systems and System Programming](http://theopenacademy.com/content/operating-systems-and-system-programming)  
 - [ ]  Project: Create a node module that will convert markdown to properly formatted html
 - [ ]  Course: [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)    
 - [ ]  Course: [Introduction to Natural Language Processing](https://www.coursera.org/learn/natural-language-processing)   
